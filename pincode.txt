@@ -1,0 +1,5 @@
+zipcode 525124
+mv mrkam
+dist vzm
+state ap
+city vzm
